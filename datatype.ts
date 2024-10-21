@@ -1,0 +1,10 @@
+let userId:number;
+let firstName:string;
+let lastName:string;
+let fullName:string;
+userId=30;
+firstName="Golam";
+lastName="Mustafa";
+fullName=firstName.concat(lastName);
+console.log(fullName);
+console.log("this is program");

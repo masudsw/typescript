@@ -1,0 +1,10 @@
+var userId;
+var firstName;
+var lastName;
+var fullName;
+userId = 30;
+firstName = "Golam";
+lastName = "Mustafa";
+fullName = firstName.concat(lastName);
+console.log(fullName);
+console.log("this is program");
